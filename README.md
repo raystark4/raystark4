@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raymond García</h1>
 <h3 align="center">Exploring the world of web development 🌐</h3>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning 
 
 - 📄 Know about my experiences (Courses: CS50x.ni - WEB50x.ni)
 
