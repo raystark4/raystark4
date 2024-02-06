@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 📄 Know about my experiences [Courses: CS50x.ni - WEB50x.ni](Courses: CS50x.ni - WEB50x.ni)
+- 📄 Know about my experiences (Courses: CS50x.ni - WEB50x.ni)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
