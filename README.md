@@ -27,7 +27,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raymond_garciaxd) 
 
+<a href="https://instagram.com/raymond_garciaxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raymond_garciaxd" height="30" width="40" /></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
